@@ -1,4 +1,4 @@
-#modify the next line with the proper path to your repository, and uncomment it
+#modify the next line with the proper path to your repository, then uncomment it
 #repository_folder <- "/home/username/Documents/urban-sprawl-public"
 
 cities <- read.csv(paste(repository_folder,"/city_list/city_data.csv",sep=""))
